@@ -1,0 +1,41 @@
+GENERAL FAQ
+===========
+
+Q: How do I create an account?
+A: Click "Sign Up" in the top right, enter your email and password, and verify your email. You'll get a confirmation link to complete registration.
+
+Q: I forgot my password. What should I do?
+A: Click "Forgot Password" on the login page, enter your email, and we'll send a reset link. Follow the instructions in your email.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards (Visa, Mastercard, American Express), PayPal, and Apple Pay for secure, fast checkout.
+
+Q: Is my payment information secure?
+A: Yes! We use industry-standard SSL encryption and PCI-DSS compliance. Payment processing is handled by Stripe, a trusted payment provider. We never store your full card details.
+
+Q: How do I track my order?
+A: After checkout, you'll receive a confirmation email with a tracking number. Log into your account to view all orders and their status.
+
+Q: What's your return policy?
+A: We offer 30-day returns for unworn items with original tags. Damaged or defective items can be exchanged or refunded anytime.
+
+Q: How long does shipping take?
+A: Standard shipping: 5-7 business days. Express shipping: 2-3 business days. International shipping: 10-21 business days depending on location.
+
+Q: Do you ship internationally?
+A: Yes! We ship to 150+ countries. Shipping costs and delivery times vary. International orders may be subject to customs duties.
+
+Q: Can I modify my order after placing it?
+A: Orders are processed immediately. If you need changes, contact customer service within 1 hour of placing your order.
+
+Q: How do I contact customer support?
+A: Email us at support@brand.com, chat with our AI assistant, or call 1-800-LUXE-NOW. We respond within 24 hours.
+
+Q: Do you offer gift cards?
+A: Yes! Digital and physical gift cards available in denominations from $25-$500. Perfect for any occasion!
+
+Q: How often do you have sales?
+A: We have seasonal sales (Spring, Summer, Fall, Winter) and occasional flash sales. Sign up for our newsletter to be notified first.
+
+Q: What's your loyalty program?
+A: Join our VIP Club! Earn 1 point per dollar spent, 50 points = $5 off. VIP members get early access to sales and exclusive discounts.
